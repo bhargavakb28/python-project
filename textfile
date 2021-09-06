@@ -1,1 +1,19 @@
+git init
+git add filename
+git add
+git status
+git rm --cached <file>
+git commit -m "comment"
+git log
+git reset HEAD~1
+Git reset --hard<code>
+git push -u origin main
+git branch
+git checkout -b<branch-name>
+git checkout<branch-name>
+git push -u <branch-name>
+git pull
+git clone<link>
+Git Ignore files
+
 
